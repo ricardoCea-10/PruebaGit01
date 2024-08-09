@@ -1,1 +1,1 @@
-Testing proyect of git's funtions.
+Testing proyect of git's functions.
